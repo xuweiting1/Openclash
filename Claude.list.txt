@@ -1,0 +1,6 @@
+# 域名关键字匹配
+# 域名关键词，anthropic
+# 域名关键词，Claude
+
+域名后缀,anthropic.com
+域名后缀,claude.ai
