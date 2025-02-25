@@ -1,40 +1,45 @@
 # 内容：OpenAi Bard anthropic
 # 域名关键字匹配
-# DOMAIN-KEYWORD,openai
-# DOMAIN-KEYWORD,anthropic
-# DOMAIN-KEYWORD,Claude
+# 域名关键词，openai
+# 域名关键词，anthropic
+# 域名关键词，Claude
 # 域名后缀匹配
-DOMAIN,copilot.microsoft.com
-DOMAIN-SUFFIX,bing.com
+域名，copilot.microsoft.com
+域名后缀,bing.com
 
-DOMAIN-SUFFIX,chatgpt.com
-DOMAIN-SUFFIX,auth0.com
-DOMAIN-SUFFIX,client-api.arkoselabs.com
-DOMAIN-SUFFIX,events.statsigapi.net
-DOMAIN-SUFFIX,featuregates.org
-DOMAIN-SUFFIX,identrust.com
-DOMAIN-SUFFIX,intercom.io
-DOMAIN-SUFFIX,intercomcdn.com
-DOMAIN-SUFFIX,oaistatic.com
-DOMAIN-SUFFIX,oaiusercontent.com
-DOMAIN-SUFFIX,openai.com
-DOMAIN-SUFFIX,openaiapi-site.azureedge.net
-DOMAIN-SUFFIX,sentry.io
-DOMAIN-SUFFIX,stripe.com
-DOMAIN-SUFFIX,bard.google.com
-DOMAIN-SUFFIX,gemini.google.com
-DOMAIN-SUFFIX,makersuite.google.com
-DOMAIN-SUFFIX,anthropic.com
-DOMAIN-SUFFIX,claude.ai
-DOMAIN-SUFFIX,circumlunar.space
-DOMAIN-SUFFIX,vulpes.one
-DOMAIN-SUFFIX,mozz.us
-DOMAIN-SUFFIX,conman.org
-DOMAIN-SUFFIX,bortzmeyer.org
-DOMAIN-SUFFIX,groq.com
-DOMAIN-SUFFIX,difyai.com
+域名后缀,chatgpt.com
+域名后缀,auth0.com
+域名后缀,client-api.arkoselabs.com
+域名后缀,events.statsigapi.net
+域名后缀,featuregates.org
+域名后缀,identrust.com
+域名后缀,intercom.io
+域名后缀,intercomcdn.com
+域名后缀,oaistatic.com
+域名后缀,oaiusercontent.com
+域名后缀,openai.com
+域名后缀，openaiapi-site.azureedge.net
+域名后缀,sentry.io
+域名后缀,stripe.com
+域名后缀,bard.google.com
+域名后缀,gemini.google.com
+域名后缀,makersuite.google.com
+域名后缀,anthropic.com
+域名后缀,claude.ai
+域名后缀,circumlunar.space
+域名后缀,vulpes.one
+域名后缀,mozz.us
+域名后缀,conman.org
+域名后缀,bortzmeyer.org
+域名后缀,groq.com
+域名后缀,difyai.com
+域名后缀,genspark.ai
 
-DOMAIN-SUFFIX,googleapis.com
-DOMAIN-SUFFIX,googleapis.cn
-DOMAIN-SUFFIX,gstatic.com
-DOMAIN-SUFFIX,signalr.net
+域名后缀,grok.com
+域名后缀,x.com
+域名后缀,x.ai
+
+域名后缀,googleapis.com
+域名后缀,googleapis.cn
+域名后缀,gstatic.com
+域名后缀,signalr.net
