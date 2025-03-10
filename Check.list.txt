@@ -1,3 +1,7 @@
+域名后缀,vultr.com
+域名后缀,test-ipv6.com
+域名后缀,ipw.cn
+
 域名后缀,cloudflare.com
 域名后缀,fast.com
 域名后缀,speedcheck.org
