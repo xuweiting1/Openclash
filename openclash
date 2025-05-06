@@ -53,19 +53,19 @@ config config_subscribe
 config dns_servers
 	option group 'nameserver'
 	option type 'udp'
-	option ip '211.139.29.150'
+	option ip '192.168.50.1'
 	option enabled '0'
 
 config dns_servers
 	option group 'nameserver'
 	option type 'udp'
-	option ip '211.139.29.170'
+	option ip '192.168.50.99'
 	option enabled '0'
 
 config dns_servers
 	option group 'nameserver'
 	option type 'udp'
-	option ip '222.172.200.68'
+	option ip '192.168.50.18'
 	option enabled '0'
 
 config dns_servers
