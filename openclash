@@ -71,7 +71,7 @@ config dns_servers
 config dns_servers
 	option group 'nameserver'
 	option type 'udp'
-	option ip '61.166.150.123'
+	option ip '172.16.41.180'
 	option enabled '0'
 
 config dns_servers
